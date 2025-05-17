@@ -11,5 +11,8 @@ Project presentation ---------- Project slides
 Certification        ---------- Certificate for participation in 2nd inernational conclave on intelligent cyber physical system
 
 # Direct Download Files
+[download Ms.Anupama rejy.pdf](https://github.com/Anupama9283/Voltage-Stabilizer/blob/0215a1bdcfdd850f23a96aa98875a6a8575aba17/project-voltage%20stabilizer/Ms.%20Anupama%20Rejy.pdf)
+
+[download an(1).pdf]()
 
 
