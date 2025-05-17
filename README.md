@@ -1,2 +1,2 @@
 # Voltage-Stabilizer
-implementation of voltage stabilizer
+Implementation of voltage stabilizer
