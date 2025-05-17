@@ -8,7 +8,7 @@ project report       ---------- detailed project report
 
 project presentation ---------- project slides
 
-certification        ----------
+certification        ---------- certificate for participation in 2nd inernational conclave
 
 
 
