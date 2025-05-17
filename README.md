@@ -4,11 +4,11 @@ This project is a part of my final year engineering curriculum in **Electrical a
 
 # contents of folder
 
-project report       ---------- detailed project report
+Project report       ---------- Detailed project report
 
-project presentation ---------- project slides
+Project presentation ---------- Project slides
 
-certification        ---------- certificate for participation in 2nd inernational conclave
+Certification        ---------- Certificate for participation in 2nd inernational conclave on intelligent cyber physical system
 
 
 
