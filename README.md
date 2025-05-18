@@ -20,6 +20,17 @@ Certification        ---------- Certificate for participation in 2nd inernationa
 # Objective
 To create a reliable voltage stabilizer that ensures stable output voltage despite input fluctuations.
 
+# ⚙️ Working Principle
+
+The stabilizer works on the principle of:
+The stabilizer operates based on:
+- **Voltage Sensing:** The input voltage is sensed using a voltage sensor connected to the microcontroller.
+- **Comparison with Desired Voltage:** The microcontroller compares the input voltage with the desired voltage level.
+- **Deviation Adjustment:** If the input voltage deviates from the desired level, the microcontroller adjusts the input voltage to the required level.
+- **Regulated Output:** The output voltage is maintained within safe limits.
+
+
+
 # Features
 
  Detects voltage fluctuations (under-voltage or over-voltage)
