@@ -26,7 +26,7 @@ Final Product
  📥 [download an(1).pdf](https://github.com/Anupama9283/Voltage-Stabilizer/blob/2ebf46e74c1dc39656beb31a13f778f2eb6ded45/project-voltage%20stabilizer/an%20(1).pdf)
 
 
-# Objective
+# 🎯 Objective
 To create a reliable voltage stabilizer that ensures stable output voltage despite input fluctuations.
 
 # ⚙️ Working Principle
