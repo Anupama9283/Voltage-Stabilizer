@@ -6,9 +6,19 @@ This project is a part of my final year engineering curriculum in **Electrical a
 
 Project report       ---------- Detailed project report
 
-Project presentation ---------- Project slides
-
 Certification        ---------- Certificate for participation in 2nd inernational conclave on intelligent cyber physical system
+
+Block Diagram
+
+Circuit Diagram
+
+Observations(manual)
+
+Observations(stabilizer)
+
+Simulation
+
+Final Product
 
 # Direct Download Files
  📥 [download Ms.Anupama rejy.pdf](https://github.com/Anupama9283/Voltage-Stabilizer/blob/0215a1bdcfdd850f23a96aa98875a6a8575aba17/project-voltage%20stabilizer/Ms.%20Anupama%20Rejy.pdf)
