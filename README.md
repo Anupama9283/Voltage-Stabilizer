@@ -39,6 +39,14 @@ The stabilizer operates based on:
 - **Regulated Output:** The output voltage is maintained within safe limits.
 
 
+# 🛠️ Tools & Technologies Used
+
+- **Microcontroller:** Arduino
+- **Voltage Sensor:** Used to measure the input voltage
+- **Simulation Software:** Tinkercad
+- **Programming Language:** Embedded C
+- **Others:** ,Auto Transformer, Motor,Driver,LCD Display,
+
 
 # Features
 
